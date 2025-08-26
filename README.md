@@ -1,5 +1,5 @@
 # Tarea-1
-# Pedro Luis Bedón Carbajal
+# Pedro Luis Bedon Carbajal
 
 ## 👨‍💻 Sobre mí
 Soy estudiante de Ingeniería de Software con IA con conocimientos en desarrollo de software, 
