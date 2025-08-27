@@ -1,5 +1,4 @@
-# [MB7] Tarea 1 Git – Pedro Luis Bedon Carbajal
-
+# [MB7] Tarea 1 Git 
 # Pedro Luis Bedon Carbajal
 
 ### Cambios hechos en la rama dev
