@@ -1,4 +1,4 @@
-# [MB7] Tarea 1 Git – Pedro Luis Bedón Carbajal
+# [MB7] Tarea 1 Git – Pedro Luis Bedon Carbajal
 
 # Pedro Luis Bedon Carbajal
 
