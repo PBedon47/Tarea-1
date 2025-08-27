@@ -1,6 +1,9 @@
 # Tarea-1
 # Pedro Luis Bedon Carbajal
 
+### Cambios hechos en la rama dev
+Este es mi primer commit en la rama dev.
+
 ## 👨‍💻 Sobre mí
 Soy estudiante de Ingeniería de Software con IA con conocimientos en desarrollo de software, 
 bases de datos y metodologías ágiles. Apasionado por la tecnología y la innovación, 
@@ -21,3 +24,13 @@ con habilidades en trabajo en equipo, comunicación y resolución de problemas.
 ## 📚 Experiencia
 He realizado proyectos académicos aplicando machine learning y deep learning, así como aplicaciones web con PHP y MySQL, 
 tambien tengo experiencia en agentes IA en la empresa.  
+
+Agregado primer cambio en README desde rama dev
+
+### Metas
+- Mejorar mis conocimientos en la carrera de ingeníeria de software con inteligencia artificial.
+- Avanzar en progracion, base de datos y inteligencia artificial.
+
+  Agregado sección de Metas en README
+
+
