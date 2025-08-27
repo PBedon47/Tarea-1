@@ -1,6 +1,6 @@
 # Tarea-1
 # Pedro Luis Bedon Carbajal
-
+Este es mi primer commit en la rama dev.
 ## 👨‍💻 Sobre mí
 Soy estudiante de Ingeniería de Software con IA con conocimientos en desarrollo de software, 
 bases de datos y metodologías ágiles. Apasionado por la tecnología y la innovación, 
