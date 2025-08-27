@@ -27,3 +27,10 @@ tambien tengo experiencia en agentes IA en la empresa.
 
 Agregado primer cambio en README desde rama dev
 
+### Metas
+- Mejorar mis conocimientos en Git.
+- Avanzar en progracion, base de datos y inteligencia artificial.
+
+  Agregado sección de Metas en README
+
+
